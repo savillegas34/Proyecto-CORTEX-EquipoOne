@@ -20,3 +20,7 @@ El asistente requiere de una gran memoria para procesor datos pero, por esa mism
 
 **Lenguaje - 10**
 El asistente debe hacer uso del lenguaje, tanto especifico y especializado, como sencillo y entendible para todos los usuarios. Poder dar explicaciones de todas las longitudes dependiendo el problema y lograr que el usuario comprenda el código o indicaciones proporcionadas por el asistente.
+
+
+**Emoción** - 6**
+Al ser un asistente de acompañamiento como tipo tutor, debe brindar la calurosidad y motivación para inspirar al usuario a seguir afrontando el problema que se le esta presentando.
