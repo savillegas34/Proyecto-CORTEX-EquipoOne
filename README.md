@@ -11,7 +11,7 @@
 ## 2. Radar Cognitivo
 
 <img width="585" height="317" alt="image" src="https://github.com/user-attachments/assets/0030ec53-513c-4a7f-929c-7d10c4131cb8" />
-<img width="1920" height="1080" alt="Diseño sin título" src="https://github.com/user-attachments/assets/6ee5f418-8651-4b47-8927-6364edcead66" />
+<img width="462" height="416" alt="Diseño sin título (1)" src="https://github.com/user-attachments/assets/0a693140-4f60-49a3-826a-f89c758b3ab5" />
 
 **Atención - 8**
 El asistente requiere poder identificar el problema que el usuario le presenta de manera eficiente. El usuario usualmente no sabrá la causa de errores, entonces es función del asistente identificar todas la pistas en cada palabra del prompt y dar el output que el usuario necesite.
@@ -25,3 +25,4 @@ El asistente debe hacer uso del lenguaje, tanto especifico y especializado, como
 
 **Emoción - 6**
 Al ser un asistente de acompañamiento como tipo tutor, debe brindar la calurosidad y motivación para inspirar al usuario a seguir afrontando el problema que se le esta presentando.
+
