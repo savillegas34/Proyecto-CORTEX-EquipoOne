@@ -14,3 +14,5 @@
 
 Atención - 8
 El asistente requiere poder identificar el problema que el usuario le presenta de manera eficiente. El usuario usualmente no sabrá la causa de errores, entonces es función del asistente identificar todas la pistas en cada palabra del prompt y dar el output que el usuario necesite.
+Memoria - 7
+El asistente requiere de una gran memoria para procesor datos pero, por esa misma razón necesita solo poder resguardar en su base de datos información que sea relevante a los problemas que se le asignen para responder 
