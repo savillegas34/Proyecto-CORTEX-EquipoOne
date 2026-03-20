@@ -1,5 +1,6 @@
 # Xiochi
 
+
 ## Equipo One
 - Samuel Andres Villegas Centeno
 - Maria José Izquierdo Osorio
@@ -8,7 +9,7 @@
 
 <img width="1337" height="796" alt="image" src="https://github.com/user-attachments/assets/84ea81c1-5da8-4973-b5bf-d1cc32f780cd" />
 
-## 2. Radar Cognitivo
+**1.1. Radar Cognitivo**
 
 <img width="585" height="317" alt="image" src="https://github.com/user-attachments/assets/0030ec53-513c-4a7f-929c-7d10c4131cb8" />
 <img width="462" height="416" alt="Diseño sin título (1)" src="https://github.com/user-attachments/assets/0a693140-4f60-49a3-826a-f89c758b3ab5" />
@@ -22,7 +23,11 @@ El asistente requiere de una gran memoria para procesor datos pero, por esa mism
 **Lenguaje - 10**
 El asistente debe hacer uso del lenguaje, tanto especifico y especializado, como sencillo y entendible para todos los usuarios. Poder dar explicaciones de todas las longitudes dependiendo el problema y lograr que el usuario comprenda el código o indicaciones proporcionadas por el asistente.
 
-
 **Emoción - 6**
 Al ser un asistente de acompañamiento como tipo tutor, debe brindar la calurosidad y motivación para inspirar al usuario a seguir afrontando el problema que se le esta presentando.
 
+## 2. Sistema de Percepción y Atención
+
+Nuestro agente utiliza un mecanismo de atención selectiva tipo 'Top-Down' orientado al contexto técnico. Prioriza estructuras sintácticas, bloques de código y palabras clave relacionadas con lenguajes de programación, algorítmos, bases de datos y logs de errores. Este asistente busca ofrecer una ayuda más personalizada y cercana al usuario, así que gestos como un 'hola' o 'buenos días', o lenguaje conversacional, serán tomados en cuenta en lo posible. Sin embargo, para optimizar la tokenización y el tiempo de respuesta, en tareas complicadas se saltará la parte conversacional y se concentrará en la efectividad.
+
+El umbral de atención crítica se activa automáticamente si el sistema detecta indicadores de urgencia operativa, por ejemplo, términos como 'caída en producción', 'fatal error', 'urgente', o la presencia de un Stack Trace, un informe técnico que muestra la secuencia activa de llamadas a funciones. Además, aplica un análisis de expresiones regulares (RegEx) en la etapa temprana para separar el lenguaje natural de las variables o fragmentos de código, asegurando que el análisis semántico se concentre primero en la lógica matemática y estructural del problema.
