@@ -31,3 +31,13 @@ Al ser un asistente de acompañamiento como tipo tutor, debe brindar la calurosi
 Nuestro agente utiliza un mecanismo de atención selectiva tipo 'Top-Down' orientado al contexto técnico. Prioriza estructuras sintácticas, bloques de código y palabras clave relacionadas con lenguajes de programación, algorítmos, bases de datos y logs de errores. Este asistente busca ofrecer una ayuda más personalizada y cercana al usuario, así que gestos como un 'hola' o 'buenos días', o lenguaje conversacional, serán tomados en cuenta en lo posible. Sin embargo, para optimizar la tokenización y el tiempo de respuesta, en tareas complicadas se saltará la parte conversacional y se concentrará en la efectividad.
 
 El umbral de atención crítica se activa automáticamente si el sistema detecta indicadores de urgencia operativa, por ejemplo, términos como 'caída en producción', 'fatal error', 'urgente', o la presencia de un Stack Trace, un informe técnico que muestra la secuencia activa de llamadas a funciones. Además, aplica un análisis de expresiones regulares (RegEx) en la etapa temprana para separar el lenguaje natural de las variables o fragmentos de código, asegurando que el análisis semántico se concentre primero en la lógica matemática y estructural del problema.
+
+## 3. Arquitectura de Memoria
+
+| Tipo de Memoria | Categoria de Datos | Descripción | ejemplo de entrada |
+| :--- | :--- | :--- | :--- |
+| Semantica (LTM) | Sintaxis y Lógica | Reglas de Python, estructuras de control y algoritmos. | "Sintaxis de bucles for y condicionales if-else." | 
+| Semántica (LTM) | Metodolodía Pedagógica | Estrategias de enseñanza (Método Socrático) y niveles de dificultad. | "No dar la respuesta directa;  |
+| Episódica (LTM) | Perfil de estudiante | Historial de progreso, conceptos dominados y errores frecuentes. | "Usuario: Majo, Nivel: Semilla, Error recurrente: Identación." |
+| Memoria de Trabajo | Ventana de contexto | La conversación actual y el código que el usuario está escribiendo ahora. | "El código que el usuario pegó hace 3 mensajes."|
+
