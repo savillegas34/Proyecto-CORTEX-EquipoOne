@@ -41,3 +41,8 @@ El umbral de atención crítica se activa automáticamente si el sistema detecta
 | Episódica (LTM) | Perfil de estudiante | Historial de progreso, conceptos dominados y errores frecuentes. | "Usuario: Majo, Nivel: Semilla, Error recurrente: Identación." |
 | Memoria de Trabajo | Ventana de contexto | La conversación actual y el código que el usuario está escribiendo ahora. | "El código que el usuario pegó hace 3 mensajes."|
 
+
+
+<img width="708" height="852" alt="image" src="https://github.com/user-attachments/assets/06f68070-4b74-446e-a7c3-d2b5e5d7d958" />
+
+
