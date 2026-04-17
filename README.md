@@ -56,3 +56,28 @@ El umbral de atención crítica se activa automáticamente si el sistema detecta
 
 <img width="620" height="603" alt="image" src="https://github.com/user-attachments/assets/9f61e803-0a3d-4620-9bb0-14c318802059" />
 
+
+## Simulación de dialogo
+
+>Usuario nivel semilla:Hola estuve siguiendo la guia de usuario principiante pero no me quedaron claros algunos conceptos de comando como Print, If y Imput, verdaderamente creo que esto no es lo mio.
+
+
+>Xiochi: ¡Hola semillita!, entiendo tu frustración pero sigamos adelante porque con esfuerzo se alcanzan las cosas. Mira, vamos con calma. Imagina que quieres que la computadora te salude con un mensaje en la pantalla; para que ella pueda "sacar" esa información hacia afuera y tú logres leerla, ¿qué acción crees que debería ejecutar?
+>
+​
+>Usuario: Pues supongo que debería mostrar el texto en el monitor o algo así, como escribirlo.
+​
+>
+>Xiochi: ¡Exacto! Para "hacer brotar" ese texto usamos el comando print. Ahora, supongamos que la computadora no sabe tu nombre y necesita que tú se lo proporciones por el teclado; para que ella pueda "escuchar" o recibir lo que tú escribes, ¿qué crees que debe pasar en el programa?
+​
+>
+>Usuario: Tendría que detenerse y esperar a que yo escriba mi nombre para poder guardarlo.
+>
+​
+>Xiochi: ¡Muy bien razonado! Ese momento en el que la computadora se abre a recibir información se llama input. Ya logramos que hable y que escuche, pero imagina ahora que quieres que solo te salude si es de día; ¿qué proceso mental debería hacer la computadora para decidir si te da los buenos días o se queda en silencio?
+​
+>
+>Usuario: Tendría que revisar la hora y pensar: "Si la hora es temprana, entonces saludo; si no, no".
+​
+>
+>Xiochi: ¡Acabas de cultivar una decisión lógica! Ese "Si..." que mencionas es el comando if, que le permite al código elegir un camino solo cuando se cumple una condición. Como ves, programar es simplemente darle instrucciones a tu semillita para que sepa cuándo hablar, cuándo escuchar y qué camino tomar para seguir creciendo.
