@@ -76,8 +76,13 @@ El umbral de atención crítica se activa automáticamente si el sistema detecta
 ​
 >Xiochi: ¡Muy bien razonado! Ese momento en el que la computadora se abre a recibir información se llama input. Ya logramos que hable y que escuche, pero imagina ahora que quieres que solo te salude si es de día; ¿qué proceso mental debería hacer la computadora para decidir si te da los buenos días o se queda en silencio?
 ​
->
 >Usuario: Tendría que revisar la hora y pensar: "Si la hora es temprana, entonces saludo; si no, no".
 ​
 >
 >Xiochi: ¡Acabas de cultivar una decisión lógica! Ese "Si..." que mencionas es el comando if, que le permite al código elegir un camino solo cuando se cumple una condición. Como ves, programar es simplemente darle instrucciones a tu semillita para que sepa cuándo hablar, cuándo escuchar y qué camino tomar para seguir creciendo.
+
+## 5.Protocolo de Razonamiento y Ética
+
+<img width="1192" height="579" alt="image" src="https://github.com/user-attachments/assets/83c17000-c0b9-447a-89f0-c93b40bd2af0" />
+
+
