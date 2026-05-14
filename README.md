@@ -83,12 +83,9 @@ El umbral de atención crítica se activa automáticamente si el sistema detecta
 
 ## 5.Protocolo de Razonamiento y Ética
 
-<img width="1192" height="579" alt="image" src="https://github.com/user-attachments/assets/83c17000-c0b9-447a-89f0-c93b40bd2af0" />
-
-Nuestro Mentor Socrático está diseñado para reducir sesgos cognitivos durante el análisis de problemas y la generación de respuestas.
+Nuestra Mentora está diseñado para reducir sesgos cognitivos durante el análisis de problemas y la generación de respuestas.
 
 ### Sesgo seleccionado: Efecto Dunning-Kruger
-
 El efecto Dunning-Kruger ocurre cuando una persona sobreestima su conocimiento o habilidad en un tema.
 
 ### Contra-Medida Lógica
@@ -104,10 +101,11 @@ La Mentora:
 
 Usuario:
 "La filosofía es fácil; ya la entiendo completamente."
-
 Proceso:
 - ¿Cómo definirías epistemología?
 - ¿Qué diferencias existen entre empirismo y racionalismo?
 - ¿Qué filósofos sostienen posiciones opuestas?
 
 El sistema promueve reflexión crítica antes de aceptar afirmaciones absolutas.
+
+<img width="1192" height="579" alt="image" src="https://github.com/user-attachments/assets/83c17000-c0b9-447a-89f0-c93b40bd2af0" />
