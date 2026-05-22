@@ -109,3 +109,36 @@ Proceso:
 El sistema promueve reflexión crítica antes de aceptar afirmaciones absolutas.
 
 <img width="1192" height="579" alt="image" src="https://github.com/user-attachments/assets/83c17000-c0b9-447a-89f0-c93b40bd2af0" />
+
+
+## 6. Sistema de Motivación y Emoción
+
+### 6.1. Matriz de Prioridad Numérica Base
+
+| Motivación | Identificador | Peso Base ($P$) | Rango | Descripción Operativa |
+| :--- | :---: | :---: | :---: | :--- |
+| **Calidad (Satisfacción)** | $P_{\text{calidad}}$ | `8.0` | $[0, 10]$ | Garantizar la comprensión profunda y el éxito del usuario. |
+| **Eficiencia (Velocidad)** | $P_{\text{eficiencia}}$ | `5.0` | $[0, 10]$ | Optimizar tiempos de respuesta y concisión del ticket. |
+
+---
+
+### 6.2. Regla Lógica de Equilibrio Dinámico
+
+El sistema evalúa en cada interacción el **Índice de Frustración del Usuario ($F$)** en un rango de $[0, 1.0]$. Al superar el umbral crítico, se ejecuta la siguiente regla de asignación absoluta:
+
+$$\text{Si } F > 0.7 \implies \begin{cases} P_{\text{calidad}} = 10.0 \\ P_{\text{eficiencia}} = 0.0 \end{cases}$$
+
+#### 📌 Declaración de Principios del Sistema:
+> **"Nuestra IA prioriza la Calidad sobre la Velocidad. Si detecta frustración, ignorará el límite de tiempo para dedicar más recursos a explicar la solución."**
+
+*Nota: Al activarse esta regla, Xiochi suspende los KPIs de tiempo por ticket y activa el modo pedagógico de desglose estructurado.*
+
+<img width="663" height="939" alt="image" src="https://github.com/user-attachments/assets/d2ec9900-f976-43a8-87c1-cad3e4c14e59" />
+
+enlace de repositorio miro: https://miro.com/app/board/uXjVG9SN-ps=/S
+
+## Apariencia fisica del bot
+
+<img width="761" height="889" alt="image" src="https://github.com/user-attachments/assets/b417556a-bf61-4d5c-a0dc-4a26a338dadd" />
+
+
